@@ -1,2 +1,2 @@
 # question-retrieval-and-answer-recommendation-model
-This project proposes a model which can be used by question answering communities in order to retrieve existing question and answer whenever a new question to be posted already exists.
+This project proposes a model which can be used by question answering communities in order to retrieve existing question and answer whenever a new question to be posted already exists. In the case when a duplicate question does not exist in the database, then the best possible answers are recommended to the question. If the user is still not satisfied, they still have the option to post a new question.
